@@ -1,0 +1,5 @@
+{
+  "name": "DDI & Clinical Decision Support System",
+  "description": "A professional multimodal OCR-powered drug interaction and clinical decision support system with patient-aware safety analysis.",
+  "requestFramePermissions": ["camera"]
+}
