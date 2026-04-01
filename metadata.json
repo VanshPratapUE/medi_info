@@ -1,7 +1,5 @@
-# VITE_GROQ_API_KEY: Required for Groq API calls (Llama 3.2 Vision).
-VITE_GROQ_API_KEY="MY_GROQ_API_KEY"
-
-# APP_URL: The URL where this applet is hosted.
-# AI Studio automatically injects this at runtime with the Cloud Run service URL.
-# Used for self-referential links, OAuth callbacks, and API endpoints.
-APP_URL="MY_APP_URL"
+{
+  "name": "DDI & Clinical Decision Support System",
+  "description": "A professional multimodal OCR-powered drug interaction and clinical decision support system with patient-aware safety analysis.",
+  "requestFramePermissions": ["camera"]
+}
